@@ -7,10 +7,11 @@ should be compatible with python 2.7 and 3.5
 
 run in ipython:
 
-``` python
 
+```
 ipython --pylab
-
+```
+``` python
 run -i ./map_of_mcsystem.py
 
 ```
