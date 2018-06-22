@@ -1,0 +1,10 @@
+P = 32.9550   <B> = 15.229    std dev = 0.000     amplitude = 0.002
+P = 32.9550   <V> = 14.194    std dev = 0.000     amplitude = 0.001
+P = 32.9550   <R> = 13.645    std dev = 0.000     amplitude = 0.001
+P = 32.9550   <I> = 13.130    std dev = 0.000     amplitude = 0.000
+P = 32.9550   <J> = 12.199    std dev = 0.003     amplitude = 0.016
+P = 32.9550   <H> = 11.764    std dev = 0.006     amplitude = 0.029
+P = 32.9550   <K> = 11.664    std dev = 0.006     amplitude = 0.031
+P = 32.9550   <[3.6]> = 11.560    std dev = 0.040     amplitude = 0.414
+P = 32.9550   <[4.5]> = 11.576    std dev = 0.040     amplitude = 0.421
+<[3.6] - [4.5]> = -0.016    std dev = 0.008     amplitude = 0.103

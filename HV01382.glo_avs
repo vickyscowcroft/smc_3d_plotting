@@ -1,0 +1,6 @@
+P = 10.8828   <J> = 13.672    std dev = 0.001     amplitude = 0.006
+P = 10.8828   <H> = 13.248    std dev = 0.002     amplitude = 0.014
+P = 10.8828   <K> = 13.235    std dev = 0.001     amplitude = 0.009
+P = 10.8828   <[3.6]> = 13.213    std dev = 0.093     amplitude = 0.265
+P = 10.8828   <[4.5]> = 13.173    std dev = 0.087     amplitude = 0.237
+<[3.6] - [4.5]> = 0.040    std dev = 0.031     amplitude = 0.100

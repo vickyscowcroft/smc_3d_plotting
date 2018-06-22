@@ -1,0 +1,5 @@
+P = 6.8441   <V> = 15.016    std dev = 0.030     amplitude = 0.835
+P = 6.8441   <I> = 14.314    std dev = 0.019     amplitude = 0.538
+P = 6.8446   <[3.6]> = 13.359    std dev = 0.051     amplitude = 0.150
+P = 6.8446   <[4.5]> = 13.295    std dev = 0.048     amplitude = 0.170
+<[3.6] - [4.5]> = 0.064    std dev = 0.021     amplitude = 0.062

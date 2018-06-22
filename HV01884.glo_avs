@@ -1,0 +1,10 @@
+P = 18.1100   <B> = 15.352    std dev = 0.059     amplitude = 0.817
+P = 18.1100   <V> = 14.435    std dev = 0.036     amplitude = 0.521
+P = 18.1100   <R> = 14.003    std dev = 0.055     amplitude = 0.464
+P = 18.1100   <I> = 13.564    std dev = 0.057     amplitude = 0.465
+P = 18.1100   J = 13.040 --- single point
+P = 18.1100   H = 12.650 --- single point
+P = 18.1100   K = 12.550 --- single point
+P = 18.1090   <[3.6]> = 12.302    std dev = 0.035     amplitude = 0.376
+P = 18.1090   <[4.5]> = 12.306    std dev = 0.032     amplitude = 0.315
+<[3.6] - [4.5]> = -0.004    std dev = 0.008     amplitude = 0.095

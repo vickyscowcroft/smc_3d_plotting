@@ -1,0 +1,11 @@
+P = 87.3800   <U> = 13.457    std dev = 0.090     amplitude = 1.582
+P = 87.3800   <B> = 12.775    std dev = 0.012     amplitude = 0.503
+P = 87.3800   <V> = 11.904    std dev = 0.006     amplitude = 0.319
+P = 87.3800   <R> = 11.468    std dev = 0.013     amplitude = 0.449
+P = 87.3800   <I> = 11.064    std dev = 0.013     amplitude = 0.534
+P = 84.3002   <J> = 10.409    std dev = 0.017     amplitude = 0.298
+P = 84.3002   <H> = 10.007    std dev = 0.016     amplitude = 0.322
+P = 84.3002   <K> = 9.908    std dev = 0.015     amplitude = 0.292
+P = 84.3002   <[3.6]> = 9.871    std dev = 0.031     amplitude = 0.308
+P = 84.3002   <[4.5]> = 9.836    std dev = 0.030     amplitude = 0.289
+<[3.6] - [4.5]> = 0.035    std dev = 0.005     amplitude = 0.054
